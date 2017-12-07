@@ -1,0 +1,18 @@
+Package: PARTITION
+Title: Diversity Partitioning Package
+Version: 0.0.1
+Date: 2017-11-30
+Author: Michael Mahon
+  Michael Cunningham-Minnick
+  Hannah Penn
+  Thomas Crist
+  Joseph Veech
+  Keith Summerville
+Maintainer: Michael Mahon <mahonmb@miamioh.edu>
+Depends: vegan (x.x.x), ggplot2 (x,x,x), dplyr (x,x,x)
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Build: 
